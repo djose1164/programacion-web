@@ -1,0 +1,38 @@
+form {
+    width: 80%;
+}
+
+ #container {
+    width: 100%;
+} 
+
+/* div {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1;
+    flex: 1 1 auto;
+} */
+
+ .text-div {
+    margin-right: 10px;
+    display: inline-block;
+} 
+
+input[type="text"] {
+    height: 2em;
+     width: 96%; 
+}
+
+textarea {
+    width: 50%;
+}
+
+#btn {
+    display: block;
+    background-color: blue;
+    color: white;
+    margin: 15px 0;
+    width: 5em;
+    height: 2.5em;
+    font-size: 14px;
+}
